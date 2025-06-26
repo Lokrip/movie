@@ -28,4 +28,4 @@ npm run build
 npm run start
 ```
 
-Открой в браузере: http://localhost:3000:
+Открой в браузере: http://localhost:3000
