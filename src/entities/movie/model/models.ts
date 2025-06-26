@@ -1,7 +1,6 @@
-// Для этих моделий нужно отедльнную entity но так как для них мы логику
-
 import { IGenre } from "@/shared/api/genre";
 
+// Для этих моделий нужно отедльнную entity но так как для них мы логику
 // не будем писать пусть пока тут лежат!
 export interface ICollection {
   id: number;
